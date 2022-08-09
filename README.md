@@ -29,6 +29,7 @@ PLANNED FEATURES.
 7- 3D sound with Fmod.
 
 8- Supporting all popular vr headsets via sdks.
+
 9- A good, Intuitive VR-centric GUI. 
 
 10- Android and IOS* support as well as windows mac and linux support. 
