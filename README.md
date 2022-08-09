@@ -48,7 +48,7 @@ PLANNED FEATURES.
 
 17- Complex and dynamic avatar and world interactions, Physics and so on.
 
-18- C# for scripting (Important
+18- C# for scripting (Important)
 
 19- Able to multi-task like in NeosVr by switching from place to place without having to leave.
 
